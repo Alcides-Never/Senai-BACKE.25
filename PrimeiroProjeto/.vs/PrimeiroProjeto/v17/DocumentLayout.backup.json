@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\worksatation\\PrimeiroProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{504656EB-022C-444A-AF35-390ECC78401C}|..\\Exercicios1303\\Exercicios1303.csproj|c:\\users\\fic\\documents\\worksatation\\exercicios1303\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752C3491-1B0E-400E-A126-10933C141779}|PrimeiroProjeto.csproj|c:\\users\\fic\\documents\\worksatation\\primeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{752C3491-1B0E-400E-A126-10933C141779}|PrimeiroProjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios1303\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exercicios1303\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios1303\\Program.cs*",
+              "RelativeToolTip": "..\\Exercicios1303\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:31:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\worksatation\\PrimeiroProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\worksatation\\PrimeiroProjeto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAiwL8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:14:36.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
