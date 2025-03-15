@@ -1,5 +1,6 @@
 ﻿// Exercícios
-// 1 
+// 1
+
 int numero1 = 1;
 int numero2 = 2;
 
@@ -37,3 +38,20 @@ int y = 3;
 x = x + y;
 y = x - y;
 x = x - y;
+
+Console.WriteLine($"inversão: {x}, {y}");
+
+//7 
+
+int parImpar = int.Parse(Console.ReadLine());
+
+Console.WriteLine((parImpar % 2) ^ 1);
+
+//8 
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
+
+int maior = Math.Max(a, Math.Max(b,c));
+
+Console.WriteLine($"O maior número é {maior}");

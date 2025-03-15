@@ -1,0 +1,15 @@
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/bin/Debug/net9.0/Exercicios
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/bin/Debug/net9.0/Exercicios.deps.json
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/bin/Debug/net9.0/Exercicios.runtimeconfig.json
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/bin/Debug/net9.0/Exercicios.dll
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/bin/Debug/net9.0/Exercicios.pdb
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.AssemblyInfoInputs.cache
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.AssemblyInfo.cs
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.csproj.CoreCompileInputs.cache
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.sourcelink.json
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.dll
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/refint/Exercicios.dll
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.pdb
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/Exercicios.genruntimeconfig.cache
+/home/alcides/Home/Development/WorkSpace/Senai-BACKE.25/Exercicios/obj/Debug/net9.0/ref/Exercicios.dll
