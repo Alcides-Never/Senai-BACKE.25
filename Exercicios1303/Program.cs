@@ -1,6 +1,11 @@
-﻿//1
+﻿// REFERENCIA NULA - NullPointerException
+// Nula - Não tem espaço reservado na memória.
+
+//1
 int numero1 = int.Parse(Console.ReadLine());
 int numero2 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine(numero1);
 
 if (numero1 > numero2)
 {
@@ -54,3 +59,9 @@ if (numeroMaior1 > numeroMaior2 && numeroMaior1 > numeroMaior3)
 }
 
 //5 
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
+
+double delta = ((Math.Pow(b, 2)) - (4 * a * c));
+

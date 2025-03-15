@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios\\Exercicios.csproj": {}
+    "C:\\Users\\FIC\\Documents\\Workstation\\Exercicios\\Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios\\Exercicios.csproj": {
+    "C:\\Users\\FIC\\Documents\\Workstation\\Exercicios\\Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios\\Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\FIC\\Documents\\Workstation\\Exercicios\\Exercicios.csproj",
         "projectName": "Exercicios",
-        "projectPath": "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios\\Exercicios.csproj",
+        "projectPath": "C:\\Users\\FIC\\Documents\\Workstation\\Exercicios\\Exercicios.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Documents\\worksatation\\Exercicios\\obj\\",
+        "outputPath": "C:\\Users\\FIC\\Documents\\Workstation\\Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
