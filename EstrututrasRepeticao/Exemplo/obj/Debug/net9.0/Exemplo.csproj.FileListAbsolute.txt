@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.exe
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.deps.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.runtimeconfig.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\bin\Debug\net9.0\Exemplo.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.sourcelink.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll
