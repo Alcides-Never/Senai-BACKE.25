@@ -49,3 +49,38 @@ for (int i = 0; i < 6; i++)
     Console.WriteLine(i);
 }
 
+
+// Tratamento de Exceções
+int numero = int.Parse(Console.ReadLine());
+
+// Exception -> Tem várias categorias de erro
+// IOException -> Um das categorias do exception - In and Out - Entrada e Saída
+// FormatException - Um dos erros dentro da IOException sendo um tipo específico - Erros no formato (tipo de dado)
+
+// try/catch - Tentar / Pegar -> Uma das formas de tratamento de erro, exemplo abaixo
+// Breakpoint
+
+StreamReader reader = null;
+try
+{
+    reader = new StreamReader("/meuarquivo.txt");
+    int num = int.Parse(Console.ReadLine());
+}
+catch (FormatException ex)
+{
+    Console.WriteLine("Erro: Informe apenas números");
+} catch (OverflowException ex)
+{
+    Console.WriteLine("Erro: número muito grande");
+}
+finally
+{
+    reader.Close();
+}
+
+int idade = int.Parse(Console.ReadLine());
+
+if (idade > 120)
+{
+    throw new ArgumentOutOfRangeException("Idade Invalida");
+}
