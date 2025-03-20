@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A95C208F-7921-432C-9456-11D2E7E9AB94}|Exemplo\\Exemplo.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\estrututrasrepeticao\\exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A95C208F-7921-432C-9456-11D2E7E9AB94}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E464D570-F133-4D5E-A3D9-7CC44B716586}|Exercicio-Tratamento-de-Excecoes\\Exercicio-Tratamento-de-Excecoes.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\estrututrasrepeticao\\exercicio-tratamento-de-excecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E464D570-F133-4D5E-A3D9-7CC44B716586}|Exercicio-Tratamento-de-Excecoes\\Exercicio-Tratamento-de-Excecoes.csproj|solutionrelative:exercicio-tratamento-de-excecoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E5F9587-4300-4B33-9479-44B5FE100335}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\estrututrasrepeticao\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E5F9587-4300-4B33-9479-44B5FE100335}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A95C208F-7921-432C-9456-11D2E7E9AB94}|Exemplo\\Exemplo.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\estrututrasrepeticao\\exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95C208F-7921-432C-9456-11D2E7E9AB94}|Exemplo\\Exemplo.csproj|solutionrelative:exemplo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exemplo\\Program.cs",
-              "RelativeDocumentMoniker": "Exemplo\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exemplo\\Program.cs*",
-              "RelativeToolTip": "Exemplo\\Program.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T00:05:56.629Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exercicios\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exercicios\\Program.cs*",
-              "RelativeToolTip": "Exercicios\\Program.cs*",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exemplo\\Program.cs",
+              "RelativeDocumentMoniker": "Exemplo\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exemplo\\Program.cs",
+              "RelativeToolTip": "Exemplo\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T22:15:08.753Z",
+              "WhenOpened": "2025-03-19T00:05:56.629Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exercicio-Tratamento-de-Excecoes\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio-Tratamento-de-Excecoes\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\EstrututrasRepeticao\\Exercicio-Tratamento-de-Excecoes\\Program.cs",
+              "RelativeToolTip": "Exercicio-Tratamento-de-Excecoes\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T22:33:38.68Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\bin\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.exe
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\bin\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.deps.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\bin\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.runtimeconfig.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\bin\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\bin\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.AssemblyInfo.cs
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.sourcelink.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\refint\Exercicio-Tratamento-de-Excecoes.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\Exercicio-Tratamento-de-Excecoes.genruntimeconfig.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\EstrututrasRepeticao\Exercicio-Tratamento-de-Excecoes\obj\Debug\net9.0\ref\Exercicio-Tratamento-de-Excecoes.dll
