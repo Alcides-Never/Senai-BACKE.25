@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EC3B1FE-DC8F-405A-AC6D-07EECFAAA36C}|ProjetoRevisao\\ProjetoRevisao.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\projetorevisao\\projetorevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EC3B1FE-DC8F-405A-AC6D-07EECFAAA36C}|ProjetoRevisao\\ProjetoRevisao.csproj|solutionrelative:projetorevisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89B88961-1DD4-43A2-B237-7EE2856F1FBE}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\projetorevisao\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89B88961-1DD4-43A2-B237-7EE2856F1FBE}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDED14CB-F4A7-46B2-9DDF-9DF94C0D1E1A}|Exemplos\\Exemplos.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\projetorevisao\\exemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDED14CB-F4A7-46B2-9DDF-9DF94C0D1E1A}|Exemplos\\Exemplos.csproj|solutionrelative:exemplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{872CD27C-F61C-410C-91FC-A978E99B4FF5}|Funcoes\\Funcoes.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\projetorevisao\\funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872CD27C-F61C-410C-91FC-A978E99B4FF5}|Funcoes\\Funcoes.csproj|solutionrelative:funcoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\Exercicios\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\Exercicios\\Program.cs",
-              "RelativeToolTip": "Exercicios\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:21:05.699Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\Exemplos\\Program.cs",
-              "RelativeDocumentMoniker": "Exemplos\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\Exemplos\\Program.cs",
-              "RelativeToolTip": "Exemplos\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:20:38.789Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\ProjetoRevisao\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoRevisao\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\ProjetoRevisao\\Program.cs",
-              "RelativeToolTip": "ProjetoRevisao\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwEIAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\Funcoes\\Program.cs",
+              "RelativeDocumentMoniker": "Funcoes\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\ProjetoRevisao\\Funcoes\\Program.cs",
+              "RelativeToolTip": "Funcoes\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:20:09.413Z",
+              "WhenOpened": "2025-03-22T00:03:42.955Z",
               "EditorCaption": ""
             }
           ]
