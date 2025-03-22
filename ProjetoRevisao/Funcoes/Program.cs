@@ -5,6 +5,7 @@
 
 // Criei uma função chamada FazerMultiplicação -> Toda função tem uma estrutura:
 // <TIPO DE RETORNO> <NOME DA FUNCAO> () { Z}
+
 double FazerMultiplicacao()
 {
     int num1 = 7;
@@ -22,7 +23,9 @@ FazerMultiplicacao(); // Aqui chamando a função mas aqui o resultado vai para 
 
 Console.WriteLine(FazerMultiplicacao()); // Aqui está sendo exibido em conjunto com o writeLine
 
-double resultadoFinal  = FazerMultiplicacao(); // Aqui vocë está atribuindo o resultado da função a alguma variável como o resultado final.
+double
+    resultadoFinal =
+        FazerMultiplicacao(); // Aqui vocë está atribuindo o resultado da função a alguma variável como o resultado final.
 
 // Quero multiplicar e com o resultado subtrair 2
 
@@ -35,7 +38,7 @@ double subtraido = resultadoMult - 2;
 double Multiplicar(double numero1, double numero2)
 {
     double resultado = numero1 * numero2;
-    
+
     return resultado;
 }
 
@@ -44,7 +47,7 @@ Multiplicar(2, 4);
 Multiplicar(3, 5);
 
 Console.WriteLine(Multiplicar(2, 4));
-Console.WriteLine(Multiplicar(10,10));
+Console.WriteLine(Multiplicar(10, 10));
 
 int n1 = int.Parse(Console.ReadLine());
 int n2 = int.Parse(Console.ReadLine());
@@ -53,10 +56,11 @@ Console.WriteLine(Multiplicar(n1, n2));
 
 // Crie uma função de Soma
 
-int FazerSoma()
+//int FazerSoma(int num1, int num2)
+int FazerSoma(int num1, int num2)
 {
-    int num1 = int.Parse(Console.ReadLine());
-    int num2 = int.Parse(Console.ReadLine());
+    num1 = int.Parse(Console.ReadLine());
+    num2 = int.Parse(Console.ReadLine());
 
     int resultado = num1 + num2;
 
