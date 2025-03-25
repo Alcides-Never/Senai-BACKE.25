@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.AssemblyInfo.cs
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.sourcelink.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\bin\Debug\net9.0\CodingDojo.exe
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\bin\Debug\net9.0\CodingDojo.deps.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\bin\Debug\net9.0\CodingDojo.runtimeconfig.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\bin\Debug\net9.0\CodingDojo.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\bin\Debug\net9.0\CodingDojo.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\refint\CodingDojo.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\CodingDojo.genruntimeconfig.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\CodingDojo\CodingDojo\obj\Debug\net9.0\ref\CodingDojo.dll
