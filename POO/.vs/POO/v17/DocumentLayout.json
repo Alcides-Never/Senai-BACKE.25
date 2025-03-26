@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B82052A-906C-48C3-9793-E006F0627A51}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicios\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B82052A-906C-48C3-9793-E006F0627A51}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B82052A-906C-48C3-9793-E006F0627A51}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicios\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B82052A-906C-48C3-9793-E006F0627A51}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B82052A-906C-48C3-9793-E006F0627A51}|Exercicios\\Exercicios.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B82052A-906C-48C3-9793-E006F0627A51}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Exercicios\\Livro.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Livro.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Exercicios\\Livro.cs",
+              "RelativeToolTip": "Exercicios\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:45:46.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Exercicios\\Aluno.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Aluno.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Exercicios\\Aluno.cs",
+              "RelativeToolTip": "Exercicios\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:52:19.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Exercicios\\Program.cs",
+              "RelativeToolTip": "Exercicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:44:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Carro.cs",
+              "RelativeDocumentMoniker": "POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Carro.cs",
+              "RelativeToolTip": "POO\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T00:04:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:45:58.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

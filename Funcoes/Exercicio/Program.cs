@@ -72,3 +72,43 @@ int ContarVogais (string palavra)
     string teste[] = palavra.Split(' ');
     return teste;
 }
+
+
+
+//// Correção do Professor
+
+//// 1 
+
+//// Função - sem retorno ou com retorno
+//void Saudacao(string nome)
+//{
+//    Console.WriteLine("Seja bem-vindo! " + nome);
+//}
+
+//Saudacao("Vini");
+
+//// Ex.
+//string nome = "Vinicio";
+//// Parametro
+//void Saudacao(string nome)
+//{
+//    Console.WriteLine("Seja bem-vindo! " + nome);
+//}
+
+//// Argumento
+//Saudacao(nome);
+
+//// 2
+
+//int Soma(int num1, int num2)
+//{
+//    return num1 + num2;
+//}
+//Console.WriteLine(Soma(12, 10));
+
+//// 3
+
+//void MostrarMensagem()
+//{
+//    Console.WriteLine("Este é um programa de C# com funções!");
+//}
