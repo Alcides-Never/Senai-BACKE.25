@@ -56,6 +56,11 @@ if (verificacaoEntrada)
     }
 }
 
+string[] alunos = new string[2];
+
+
+
+
 
 // // Resposta do professor
 //

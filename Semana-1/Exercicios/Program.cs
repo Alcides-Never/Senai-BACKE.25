@@ -55,3 +55,28 @@ int c = int.Parse(Console.ReadLine());
 int maior = Math.Max(a, Math.Max(b,c));
 
 Console.WriteLine($"O maior número é {maior}");
+
+// Bonus
+//Faça um algoritmo que leia a altura e a matricula de dez aluno. Mostre a matricula do aluno mais alto e do aluno mais baixo
+
+double maxAltura = 0.0;
+double minAltura = 0.0;
+int[] matricula = new int[10];
+
+for (int i = 0; i <= 10; i++)
+{
+    Console.WriteLine("Informe a altura: ");
+    Console.WriteLine("Informe a matricula: ");
+    double altura;
+    if (double.TryParse(Console.ReadLine(), out altura) && altura > 0)
+    {
+        maxAltura = Math.Max(maxAltura, altura);
+        minAltura = Math.Min(minAltura, altura);
+    }
+    else
+    {
+        i--;
+    }
+
+    Console.WriteLine(maxAltura);
+}
