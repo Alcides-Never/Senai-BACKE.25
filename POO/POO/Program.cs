@@ -72,3 +72,36 @@ carros.Add(carro3);
 Console.WriteLine(carro3.modelo);
 Console.WriteLine(carro3.marca);
 Console.WriteLine(carro3.anoFabricacao);
+
+
+// Continuaç!ao Aula
+// Programação Orientada a Objetos
+// 4 Pilares da POO
+
+// Classe e Objeto
+// Classe - Definição (Molde)
+// Objeto - Instância da Classe
+
+// Ferramentas - Formas de trabalhar com POO
+
+// Encapsulamento e Herança
+
+// Sobre Encapsulamento - Esconder comportamento e atributos
+// Evitar que sejam acessados diretamente
+// Conta Bancaria (saldo) -> Caso a conta seja encapsulada, não pode ser acessado diretamente
+// Sacar() - Depositar() -> podem acessar o saldo
+// porém se tentarmos acessar via conta.saldo pois o mesmo está encapsulado
+
+// Vantagens: 
+// 1 - Esconder atributo/método/classe
+// 2 - Defino regras para alteração ou listagem
+
+// No CSharp, o encapsulamento são:
+// public - Esse atributo/método/classe pode ser acessado por qualquer um. Obs* Toda classe por padrão é publica.
+// private - Este atributo/método/classe só pode ser acessado dentro dele mesmo
+// protected/internal - Este atributo/método/classe só pode ser acessado por ele mesmo e por sua classe pai
+
+Carro carro4 = new Carro();
+
+carro4.SetModelo("HB20");
+Console.WriteLine(carro4.GetModelo());

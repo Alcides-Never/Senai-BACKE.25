@@ -10,10 +10,31 @@ namespace POO
     {
         // Atributos
         public string marca;
-        public string modelo;
+
+        // Nomenclatura
+        // Todo atributo privado com _
+        private string _modelo;
         public int anoFabricacao;
 
         // Métodos
+        // Get e Set
+
+        public string GetModelo()
+        {
+            return _modelo;
+        }
+
+        public void SetModelo(string mod)
+        {
+            if (mod == "Fiesta" || mod == "HB20")
+            {
+                _modelo = mod;
+            } else
+            {
+                Console.WriteLine("Alterações Inválido");
+            }
+        }
+
         public void Andar()
         {
             Console.WriteLine("Carro está andando!");
