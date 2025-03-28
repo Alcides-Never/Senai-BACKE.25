@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios", "Exercicios\Exercicios.csproj", "{4B82052A-906C-48C3-9793-E006F0627A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioHerancaEncapsulamento", "ExercicioHerancaEncapsulamento\ExercicioHerancaEncapsulamento.csproj", "{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{3FB02D73-E8D1-4490-8740-B3CD72624406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{4B82052A-906C-48C3-9793-E006F0627A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B82052A-906C-48C3-9793-E006F0627A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B82052A-906C-48C3-9793-E006F0627A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB02D73-E8D1-4490-8740-B3CD72624406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB02D73-E8D1-4490-8740-B3CD72624406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB02D73-E8D1-4490-8740-B3CD72624406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB02D73-E8D1-4490-8740-B3CD72624406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

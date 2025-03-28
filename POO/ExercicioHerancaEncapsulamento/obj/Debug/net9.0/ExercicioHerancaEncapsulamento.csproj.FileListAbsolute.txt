@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\bin\Debug\net9.0\ExercicioHerancaEncapsulamento.exe
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\bin\Debug\net9.0\ExercicioHerancaEncapsulamento.deps.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\bin\Debug\net9.0\ExercicioHerancaEncapsulamento.runtimeconfig.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\bin\Debug\net9.0\ExercicioHerancaEncapsulamento.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\bin\Debug\net9.0\ExercicioHerancaEncapsulamento.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.AssemblyInfo.cs
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.sourcelink.json
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\refint\ExercicioHerancaEncapsulamento.dll
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.pdb
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ExercicioHerancaEncapsulamento.genruntimeconfig.cache
+C:\Users\FIC\Documents\Workstation\Senai-BACKE.25\POO\ExercicioHerancaEncapsulamento\obj\Debug\net9.0\ref\ExercicioHerancaEncapsulamento.dll
