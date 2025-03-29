@@ -7,48 +7,20 @@
       "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoajuridica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoafisica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicioherancaencapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|solutionrelative:exercicioherancaencapsulamento\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carrocombustao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carrocombustao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicioherancaencapsulamento\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|solutionrelative:exercicioherancaencapsulamento\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicioherancaencapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|solutionrelative:exercicioherancaencapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\exercicioherancaencapsulamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2BB46D-8AE6-4413-86F6-2B7E3B623540}|ExercicioHerancaEncapsulamento\\ExercicioHerancaEncapsulamento.csproj|solutionrelative:exercicioherancaencapsulamento\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,28 +34,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PessoaFisica.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\PessoaFisica.cs",
-              "RelativeDocumentMoniker": "Heranca\\PessoaFisica.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\PessoaFisica.cs",
-              "RelativeToolTip": "Heranca\\PessoaFisica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Carro.cs",
+              "RelativeDocumentMoniker": "POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Carro.cs",
+              "RelativeToolTip": "POO\\Carro.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:40:29.785Z",
+              "WhenOpened": "2025-03-29T00:36:08.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Heranca\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Pessoa.cs",
-              "RelativeToolTip": "Heranca\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:39:51.859Z",
+              "WhenOpened": "2025-03-29T00:33:11.87Z",
               "EditorCaption": ""
             },
             {
@@ -92,128 +64,37 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Program.cs*",
-              "RelativeToolTip": "Heranca\\Program.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDMAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T23:59:06.354Z",
+              "WhenOpened": "2025-03-29T00:27:36.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PessoaJuridica.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\PessoaJuridica.cs",
-              "RelativeDocumentMoniker": "Heranca\\PessoaJuridica.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\PessoaJuridica.cs",
-              "RelativeToolTip": "Heranca\\PessoaJuridica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:42:09.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\ContaBancaria.cs",
-              "RelativeDocumentMoniker": "ExercicioHerancaEncapsulamento\\ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\ContaBancaria.cs",
-              "RelativeToolTip": "ExercicioHerancaEncapsulamento\\ContaBancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:48:16.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CarroCombustao.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\CarroCombustao.cs",
-              "RelativeDocumentMoniker": "Heranca\\CarroCombustao.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\CarroCombustao.cs",
-              "RelativeToolTip": "Heranca\\CarroCombustao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:07:34.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CarroEletrico.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\CarroEletrico.cs",
               "RelativeDocumentMoniker": "Heranca\\CarroEletrico.cs",
               "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\CarroEletrico.cs",
               "RelativeToolTip": "Heranca\\CarroEletrico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:07:16.343Z",
+              "WhenOpened": "2025-03-29T00:23:10.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Carro.cs",
               "RelativeDocumentMoniker": "Heranca\\Carro.cs",
               "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Carro.cs",
               "RelativeToolTip": "Heranca\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T00:05:25.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\Retangulo.cs",
-              "RelativeDocumentMoniker": "ExercicioHerancaEncapsulamento\\Retangulo.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\Retangulo.cs",
-              "RelativeToolTip": "ExercicioHerancaEncapsulamento\\Retangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T23:30:07.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\Funcionario.cs",
-              "RelativeDocumentMoniker": "ExercicioHerancaEncapsulamento\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\Funcionario.cs",
-              "RelativeToolTip": "ExercicioHerancaEncapsulamento\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T23:13:15.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
-              "RelativeDocumentMoniker": "POO\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
-              "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T23:04:25.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\Program.cs",
-              "RelativeDocumentMoniker": "ExercicioHerancaEncapsulamento\\Program.cs",
-              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\ExercicioHerancaEncapsulamento\\Program.cs",
-              "RelativeToolTip": "ExercicioHerancaEncapsulamento\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T22:46:31.117Z",
+              "WhenOpened": "2025-03-29T00:15:14.424Z",
               "EditorCaption": ""
             }
           ]

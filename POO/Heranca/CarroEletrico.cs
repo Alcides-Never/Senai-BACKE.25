@@ -10,5 +10,15 @@ namespace Heranca
     {
         public int bateria;
         public int tempoDeCarga;
+
+        public override void MostrarInformacoes()
+        {
+            //Console.WriteLine("Modelo: " + modelo);
+            //Console.WriteLine("Marca: " + marca);
+            //Console.WriteLine("Quilometragem: " + quilometragem);
+            base.MostrarInformacoes();  
+            Console.WriteLine("Bateria: " + bateria);
+            Console.WriteLine("Tempo de Carga" + tempoDeCarga);
+        }
     }
 }

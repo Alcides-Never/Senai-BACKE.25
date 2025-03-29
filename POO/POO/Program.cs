@@ -105,3 +105,16 @@ Carro carro4 = new Carro();
 
 carro4.SetModelo("HB20");
 Console.WriteLine(carro4.GetModelo());
+
+
+// Continuação sobre os 4 pilares
+
+// Banco de Dados - SQL Server
+
+// Desenvolvimento Backend
+
+// Continuação, sobre os dois últimmos pilares
+
+// Polimorfismo depende de Herança
+// Polimorfismo - Um método(com o mesmo nome) pode ter implementação variável
+// Abstração - 

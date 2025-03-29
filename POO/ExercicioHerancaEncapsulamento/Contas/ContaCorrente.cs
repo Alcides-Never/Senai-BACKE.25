@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExercicioHerancaEncapsulamento
+namespace ExercicioHerancaEncapsulamento.Conta
 {
     class ContaCorrente : ContaBancaria
     {
         public void CobrarTaxa()
         {
-            _saldo = 
+            _saldo = _saldo - 15;
         }
     }
 }

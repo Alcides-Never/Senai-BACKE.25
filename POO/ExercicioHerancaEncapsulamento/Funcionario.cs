@@ -8,7 +8,7 @@ namespace ExercicioHerancaEncapsulamento
 {
     class Funcionario
     {
-        private double _salario = 0;
+        protected double _salario = 0;
 
         public void SetSalario(double valor)
         {

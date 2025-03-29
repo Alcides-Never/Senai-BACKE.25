@@ -25,6 +25,11 @@ string opcao = Console.ReadLine();
 if(opcao == "E")
 {
     meuCarro = new CarroEletrico();
+
+    if (meuCarro is CarroEletrico ce)
+    {
+        ce.bateria = 200;
+    }
 }
 else if (opcao == "C")
 {
@@ -50,3 +55,24 @@ Console.WriteLine(alguem1.cpf);
 
 Console.WriteLine(alguem2.nome);
 Console.WriteLine(alguem2.cnpj);
+
+
+// Exemplo
+Carro carro1 = new Carro();
+
+CarroEletrico novoCarroE = new CarroEletrico();
+
+carro1.modelo = "Fusca";
+carro1.marca = "Volkswagen";
+carro1.quilometragem = 3000;
+
+novoCarroE.modelo = "Tesla Model S";
+novoCarroE.marca = "Tesla";
+novoCarroE.quilometragem = 1000;
+novoCarroE.bateria = 200;
+novoCarroE.tempoDeCarga = 50;
+
+novoCarroE.MostrarInformacoes();
+
+novoCarroE.MostrarInformacoes("Vinicio");
+
