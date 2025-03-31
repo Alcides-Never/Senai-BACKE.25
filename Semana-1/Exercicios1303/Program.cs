@@ -107,3 +107,68 @@ else
 }
 
 // 7 
+Console.WriteLine("Ano Bissexto");
+Console.WriteLine("Digite um ano: ");
+int ano = int.Parse(Console.ReadLine());
+
+if ((ano % 4 == 0 && ano % 100 != 0) || (ano % 400 == 0))
+{
+    Console.WriteLine("O ano é bissexto");
+}
+else
+{
+    Console.WriteLine("O ano não é bissexto");
+}
+
+
+// 8 
+Console.WriteLine("Triangulo Válido");
+Console.WriteLine("Digite o primeiro lado: ");
+int lado1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite o segundo lado: ");
+int lado2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Digite o terceiro lado: ");
+int lado3 = int.Parse(Console.ReadLine());
+
+// para validar o tringulo, a soma de dois lados deve ser maior que o terceiro. Isso deve ser válido para todos os lados simultâneamente
+if ((lado1 + lado2) > lado3 && (lado2 + lado3) > lado1 && (lado1 + lado3) > lado2)
+{
+    if (lado1 == lado2 && lado2 == lado3)
+    {
+        Console.WriteLine("triangulo equilátero");
+    } else if (lado1 == lado2 || lado2 == lado3 || lado1 == lado3)
+    {
+        Console.WriteLine("triangulo isósceles");
+    }
+    else
+    {
+        Console.WriteLine("Triangulo escaleno");
+    }
+}
+else
+{
+    Console.WriteLine("Valores Invalidos para formar um trinagulo");
+}
+
+// 9
+Console.WriteLine("Classificação Nota");
+Console.WriteLine("Informe a nota");
+int nota = int.Parse(Console.ReadLine());
+
+if (nota >= 90)
+{
+    Console.WriteLine("Nota A");
+} else if (nota < 90 && nota >= 80)
+{
+    Console.WriteLine("Nota B");
+} else if (nota < 79 && nota >= 70)
+{
+    Console.WriteLine("Nota C");
+} else if (nota < 69 && nota >= 60)
+{
+    Console.WriteLine("Nota D");
+}
+else
+{
+    Console.WriteLine("Nota F");
+}
