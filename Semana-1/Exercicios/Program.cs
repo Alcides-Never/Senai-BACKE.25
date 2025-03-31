@@ -52,7 +52,7 @@ int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
 int c = int.Parse(Console.ReadLine());
 
-int maior = Math.Max(a, Math.Max(b,c));
+int maior = Math.Max(a, Math.Max(b, c));
 
 Console.WriteLine($"O maior número é {maior}");
 
@@ -60,23 +60,45 @@ Console.WriteLine($"O maior número é {maior}");
 //Faça um algoritmo que leia a altura e a matricula de dez aluno. Mostre a matricula do aluno mais alto e do aluno mais baixo
 
 double maxAltura = 0.0;
-double minAltura = 0.0;
-int[] matricula = new int[10];
+double minAltura = double.MaxValue;
+int maxMatricula = 0;
+int minMatricula = 0;
 
-for (int i = 0; i <= 10; i++)
+for (int i = 0; i <= 3; i++)
 {
-    Console.WriteLine("Informe a altura: ");
-    Console.WriteLine("Informe a matricula: ");
     double altura;
+    int validadorMatricula;
+    
+    Console.WriteLine("Informe a altura: ");
     if (double.TryParse(Console.ReadLine(), out altura) && altura > 0)
     {
-        maxAltura = Math.Max(maxAltura, altura);
-        minAltura = Math.Min(minAltura, altura);
+        Console.WriteLine("Informe a matricula: ");
+        if (int.TryParse(Console.ReadLine(), out validadorMatricula))
+        {
+            if (altura > maxAltura)
+            {
+                maxAltura = altura;
+                maxMatricula = validadorMatricula;
+            } 
+            if (altura < minAltura)
+            {
+                minAltura = altura;
+                minMatricula = validadorMatricula;
+            }
+        }
+        else
+        {
+            i--;
+        }
     }
     else
     {
         i--;
     }
 
-    Console.WriteLine(maxAltura);
 }
+    //Console.WriteLine(maxAltura);
+        Console.WriteLine($"Altura maxima {maxAltura}");
+        Console.WriteLine($"matricula da altura: {maxMatricula}");
+        Console.WriteLine($"Altura minima {minAltura}");
+        Console.WriteLine($"Matricula minima {minMatricula}");
