@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carromanual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\carroautomatico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E2961D-9660-436F-A328-56FDF40CD9F2}|Abstracao\\Abstracao.csproj|solutionrelative:abstracao\\icarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC06C6D8-815F-4A4E-960B-63F580BD5C7B}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carroeletrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FB02D73-E8D1-4490-8740-B3CD72624406}|Heranca\\Heranca.csproj|c:\\users\\fic\\documents\\workstation\\senai-backe.25\\poo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Carro.cs",
               "RelativeDocumentMoniker": "Heranca\\Carro.cs",
@@ -39,12 +55,11 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAA/wB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T00:15:14.424Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\Program.cs",
               "RelativeDocumentMoniker": "Heranca\\Program.cs",
@@ -53,25 +68,76 @@
               "ViewState": "AgIAADcAAAAAAAAAAAAQwEoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T00:27:36.536Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CarroManual.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\CarroManual.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroManual.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\CarroManual.cs",
+              "RelativeToolTip": "Abstracao\\CarroManual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:38:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarroAutomatico.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\CarroAutomatico.cs",
+              "RelativeDocumentMoniker": "Abstracao\\CarroAutomatico.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\CarroAutomatico.cs",
+              "RelativeToolTip": "Abstracao\\CarroAutomatico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:24:34.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarro.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\ICarro.cs",
+              "RelativeDocumentMoniker": "Abstracao\\ICarro.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\ICarro.cs",
+              "RelativeToolTip": "Abstracao\\ICarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:22:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Abstracao\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Abstracao\\Program.cs",
+              "RelativeToolTip": "Abstracao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:14:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
               "RelativeDocumentMoniker": "POO\\Program.cs",
               "ToolTip": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\POO\\Program.cs",
               "RelativeToolTip": "POO\\Program.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T00:33:11.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CarroEletrico.cs",
               "DocumentMoniker": "C:\\Users\\FIC\\Documents\\Workstation\\Senai-BACKE.25\\POO\\Heranca\\CarroEletrico.cs",
               "RelativeDocumentMoniker": "Heranca\\CarroEletrico.cs",
